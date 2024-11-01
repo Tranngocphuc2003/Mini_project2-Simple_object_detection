@@ -21,7 +21,7 @@ Dự án này phát hiện, đếm và theo dõi các phương tiện trong vide
 ### Clone the Repository
 Clone the repository to your local machine:
 ```bash
-   git clone https://github.com/yourusername/vehicle-detection.git
+   git clone https://github.com/Tranngocphuc2003/Mini_project2-Simple_object_detection.git
     cd vehicle-detection
 ```
 ## Usage
