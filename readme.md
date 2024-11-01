@@ -36,11 +36,19 @@ python main.py
 ```
 vehicle-detection/
 ├── video/
-│   └── input_video.mp4    # Input video file
-├── output_video.mp4                # Output video file
-├── main.py                         # Main script for detection and counting
-├── README.md                       # Project documentation
-└── requirements.txt                # Required libraries
+│   └── input_video.mp4     # Input video file
+├── output/
+│   └── output_video.mp4    # Output video file
+├── main.py                 # File chính cho việc phát hiện và đếm xe
+├── config.py                        
+├── src/
+│   ├── display.py
+│   ├── tracking.py
+│   ├── vehicle_detector.py
+│   └── video_processing.py
+├── README.md               # Tài liệu dự án
+├── mini_project2.pdf       # Minh hoạ project
+└── requirements.txt        # Thư viện cần dùng
 ```
 ### main.py
 Đây là file chính để chạy chương trình, có chức năng:
