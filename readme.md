@@ -22,7 +22,7 @@ Dự án này phát hiện, đếm và theo dõi các phương tiện trong vide
 Clone the repository to your local machine:
 ```bash
    git clone https://github.com/Tranngocphuc2003/Mini_project2-Simple_object_detection.git
-    cd vehicle-detection
+    cd Mini_project2-Simple_object_detection
 ```
 ## Usage
 1. Chuẩn bị video: Đặt video đầu vào vào thư mục `video/`và cập nhật đường dẫn vào trong code nếu cần.
@@ -34,7 +34,7 @@ python main.py
 
 ## Project Structure
 ```
-vehicle-detection/
+Mini_project2-Simple_object_detection/
 ├── video/
 │   └── input_video.mp4     # Input video file
 ├── output/
